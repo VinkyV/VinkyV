@@ -12,4 +12,3 @@
 <br \>
 ### Stats:
 [![stats](https://github-readme-stats.vercel.app/api?username=VinkyV&show_icons=true&count_private=true)](http://l4t2.cf/)
-[![Discord Presence](https://lanyard.cnrad.dev/api/380789623770710017)](https://discord.com/users/380789623770710017)
