@@ -12,3 +12,6 @@
 <br \>
 ### Stats:
 [![stats](https://github-readme-stats.vercel.app/api?username=VinkyV&show_icons=true&count_private=true)](http://l4t2.cf/)
+!<a href="https://discord.com/users/380789623770710017">
+  <img src="https://lanyard-profile-readme.vercel.app/api/380789623770710017" align="left" />
+</a>
